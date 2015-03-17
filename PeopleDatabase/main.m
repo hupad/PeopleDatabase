@@ -91,3 +91,20 @@ int main(int argc, const char * argv[]) {
 //        NSLog(@"You entered the word %@", inputString);
 //
 //        NSLog(@"THe lenght of the string is %li", [inputString length]);
+
+// ########################################################
+
+    // GIT HUB 101
+
+// ########################################################
+
+// cd Documents/iOSApps/ProjectName
+// ll
+// git init - will initialize git repo, this will be done only once
+// git remote add origin URL - will add remote url and will give access to the remote url - only once
+
+// git add . - will add all teh contents and prepare it for commit
+// git commit -m "With a message" - commits the code and saves it locally
+// git push -u origin master - this will push all your changes to the repo in cloud/git hub
+
+
